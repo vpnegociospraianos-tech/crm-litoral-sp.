@@ -1,0 +1,18 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f1f5f9;
+}
+.kanban-column {
+    background: white;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.kanban-card {
+    background: #fbd38d;
+    border-radius: 4px;
+    padding: 8px;
+    margin: 4px 0;
+    cursor: pointer;
+}
